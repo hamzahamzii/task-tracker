@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="57px" viewBox="0 0 58 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Send</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-165.7%" y="-165.7%" width="431.4%" height="431.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M24.9185375,10.0601237 C24.8473148,9.99684522 24.7459577,9.98216422 24.6600505,10.0225249 L9.1383938,17.32775 C9.05483037,17.3670931 9.00101877,17.4515452 9,17.544864 C8.9990098,17.6381828 9.0510516,17.7237977 9.13380188,17.7649336 L13.5264068,19.9485743 C13.6069568,19.9886443 13.7030045,19.9795837 13.7749446,19.9251235 L18.0457679,16.6917188 L14.6929944,20.1851177 C14.6451619,20.2349749 14.6207673,20.303244 14.6260289,20.3725305 L14.9598521,24.7762965 C14.9672662,24.8738791 15.0318401,24.9573137 15.1236307,24.987887 C15.1481688,24.9960269 15.1733765,25 15.1982973,25 C15.26665,25 15.3331372,24.9702988 15.3793913,24.9160325 L17.7108445,22.179359 L20.5929938,23.574296 C20.6555587,23.6045785 20.7279772,23.6058383 20.7915466,23.577833 C20.855116,23.5497792 20.9035226,23.4952221 20.9242819,23.4282612 L24.9889948,10.3148366 C25.0174073,10.223262 24.9897123,10.1234022 24.9185375,10.0601237 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PLAY" transform="translate(-921.000000, -575.000000)">
+            <g id="Group-31" transform="translate(522.000000, 148.000000)">
+                <g id="Send-Button" filter="url(#filter-1)" transform="translate(410.000000, 432.000000)">
+                    <g id="Group-30">
+                        <g id="Group-32">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Send" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

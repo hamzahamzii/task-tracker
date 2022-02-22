@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 469 780" style="enable-background:new 0 0 469 780;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+
+
+#Rectangle{
+animation: rect-anim 12s  infinite;
+<!-- animation-duration:4s; -->
+<!-- animation-timing-function: cubic-bezier(0.61, 0.04, 0.43, 1); -->
+<!-- animation-timing-function: ease; -->
+<!-- animation-timing-function: cubic-bezier(1, 1, 1, 1); -->
+<!-- transform-origin: 50% 50%; -->
+fill:#2A206A;
+}
+
+
+@keyframes rect-anim{
+ 25% { 
+  
+   fill:#3D309C; 
+ 
+
+ }
+ 25%,50% { 
+ 
+  
+    fill:#5E4FC9; 
+
+
+ }
+ 50%,75% { 
+
+  
+    fill:#5E4FC9; 
+  
+ }
+
+ 75%,100% { 
+
+  
+    fill:#2A206A; 
+  
+ }
+
+  <!-- 50%,100% { opacity:0; } -->
+}
+</style>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Log-in-page--error-message" transform="translate(-971.000000, 0.000000)">
+		<rect id="Rectangle" x="971" class="st0" width="469" height="780"/>
+	</g>
+</g>
+</svg>
