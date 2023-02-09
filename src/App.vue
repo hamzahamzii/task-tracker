@@ -3,7 +3,7 @@
     <v-app>
       <v-main>
         <component :is="layout" />
-        <Notification />
+        <Notification /> // Notification components
         <Permissions :notif="true" :dialog="!permissions && !isExtension" />
       </v-main>
     </v-app>
